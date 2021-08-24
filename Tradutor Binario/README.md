@@ -1,6 +1,6 @@
-Tradutor binário estruturado com a linguagem Java;
-Deve possibilitar a realização de mais de uma tradução sem que a aplicação feche;
-Realizar a tradução de texto para binário;
+Tradutor binário estruturado com a linguagem Java; <br/>
+Deve possibilitar a realização de mais de uma tradução sem que a aplicação feche;<br />
+Realizar a tradução de texto para binário;<br />
 Possibilitar a entrada de um texto qualquer incluindo espaços e caracteres especiais;
 Realizar a tradução de um binário para texto;
 Validar a entrada de letras, caracteres especiais e números diferentes de 0 e 1 para a tradução de binário para texto;
