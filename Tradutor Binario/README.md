@@ -1,4 +1,4 @@
-Tradutor binário estruturado com a linguagem Java; \n
+Tradutor binário estruturado com a linguagem Java;
 Deve possibilitar a realização de mais de uma tradução sem que a aplicação feche;
 Realizar a tradução de texto para binário;
 Possibilitar a entrada de um texto qualquer incluindo espaços e caracteres especiais;
