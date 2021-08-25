@@ -7,3 +7,7 @@ Validar a entrada de letras, caracteres especiais e números diferentes de 0 e 1
 Não utilizar conversões diretas de Binary para String ou de String para Binary;<br />
 <br />
 Clarice Yamaoka Bravo 081190016 / Michael Matheus de Silva Oliveira 082180038/ Kauan Lucas Gomes Jardim 081190040
+<br />
+<br />
+Link para o vídeo de explicação: https://drive.google.com/file/d/1fg5IWbpSEuyeQc9M08DBkOHnXR0x2_w0/view?usp=sharing
+
